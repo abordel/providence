@@ -19,7 +19,6 @@
 
 project = 'Providence'
 copyright = '2021, The Catholic Documentation Project'
-author = ''
 
 # -- General configuration ---------------------------------------------------
 
@@ -44,7 +43,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 html_theme = 'sphinx_book_theme'
 html_title = 'Providence'
-html_logo = '_static/Job_and_his_friends.jpg'
+html_logo = '_static/Job_and_his_friends_edit.jpg'
 html_favicon = '_static/Simple_Labarum2.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
